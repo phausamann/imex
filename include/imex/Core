@@ -1,0 +1,11 @@
+#ifndef IMEX_CORE
+#define IMEX_CORE
+
+#include "src/Type.h"
+#include "src/Util.h"
+
+#include "src/Core/Matrix.h"
+#include "src/Core/Vector.h"
+#include "src/Core/RowVector.h"
+
+#endif

@@ -1,0 +1,9 @@
+#ifndef IMEX_SPARSECORE
+#define IMEX_SPARSECORE
+
+#include "src/Type.h"
+#include "src/Util.h"
+
+#include "src/SparseCore/SparseMatrix.h"
+
+#endif
